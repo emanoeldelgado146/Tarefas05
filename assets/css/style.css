@@ -1,0 +1,23 @@
+.linha{
+display: flex;
+}
+.container{ 
+    width: 100vw;
+    height: 100px;
+    background-color: hsl(223, 31%, 20%);
+}
+.botou{
+    width: 50px;
+    height: 50px;
+}
+.emanos{
+    width: 104px;
+    background-color: rgb(0, 17, 255);
+}
+.rogerio{
+    width: 104px;
+    background-color: rgb(0, 47, 255);
+}
+.luigi{
+    background-color: rgb(0, 17, 255);
+}
